@@ -1,1 +1,2 @@
-reverse_each_word.each do 
+def reverse_each_word(string)
+  reversed_string = string.s
